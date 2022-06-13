@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 st.markdown("# MPG 🚗")
-st.sidebar.markdown("# MPG 🚗")
+st.sidebar.markdown("# MPG Calculate🚗")
 
 st.write("""
 ### 자동차 연비
